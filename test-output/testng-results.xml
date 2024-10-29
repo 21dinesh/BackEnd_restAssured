@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-07T22:55:19 IST" name="Default suite" finished-at="2024-10-07T22:55:21 IST" duration-ms="1798">
+    <groups>
+    </groups>
+    <test started-at="2024-10-07T22:55:19 IST" name="Default test" finished-at="2024-10-07T22:55:21 IST" duration-ms="1798">
+      <class name="workingWithGraphQl.getAllProject">
+        <test-method signature="graphQlTest()[pri:0, instance:workingWithGraphQl.getAllProject@45d84a20]" started-at="2024-10-07T22:55:19 IST" name="graphQlTest" finished-at="2024-10-07T22:55:21 IST" duration-ms="1744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- graphQlTest -->
+      </class> <!-- workingWithGraphQl.getAllProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
